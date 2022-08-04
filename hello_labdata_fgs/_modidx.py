@@ -26,5 +26,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'genuinoflavio',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_fgs\\core': { 'hello_labdata_fgs\\core.hello': 'https://genuinoflavio.github.io/hello_labdata_fgs/hello_labdata_fgs\\core.html#hello'},
-            'hello_labdata_fgs\\greeting': { 'hello_labdata_fgs\\greeting.hello': 'https://genuinoflavio.github.io/hello_labdata_fgs/hello_labdata_fgs\\greeting.html#hello'}}}
+  'syms': { 'hello_labdata_fgs.core': {'hello_labdata_fgs.core.hello': 'https://genuinoflavio.github.io/hello_labdata_fgs/core.html#hello'},
+            'hello_labdata_fgs.greeting': {'hello_labdata_fgs.greeting.hello': 'https://genuinoflavio.github.io/hello_labdata_fgs/greeting.html#hello'}}}
