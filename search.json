@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "greeting.html",
+    "href": "greeting.html",
+    "title": "LabData Hello",
+    "section": "",
+    "text": "hello\n\n hello (to)\n\n\nHow to use\n\nhello('Flavio')\n\n'Hello Flavio!'"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hello_labdata_fgs",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "hello_labdata_fgs",
+    "section": "Install",
+    "text": "Install\npip install hello_labdata_fgs"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "hello_labdata_fgs",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\nhello(to='Flavio')\n\n'Hello Flavio!'"
+  }
+]
